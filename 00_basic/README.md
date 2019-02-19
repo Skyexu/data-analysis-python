@@ -1,6 +1,6 @@
 ## Python 基础
 
-![知识点结构](python basic.png)
+![知识点结构](./python basic.png)
 
 
 参考资料：
